@@ -36,3 +36,7 @@ This repository serves as a hub for **Shift 2 Unleashed** enthusiasts to share m
 ---
 
 This version includes the hyperlink, improving its SEO and user-friendliness.
+![image](https://github.com/user-attachments/assets/eaf33acb-b12f-4744-91ee-03f3efe0b0c6)
+
+![image](https://github.com/user-attachments/assets/372fa34e-c353-4886-8510-c04bfa3f644f)
+
